@@ -1,0 +1,44 @@
+/* selector {
+    propiedad : valor;
+} */
+
+/* Selector "*" aplica a toda la pagina */
+*{
+    background-color: rgb(60, 182, 83);
+}
+
+.img1 {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.img2 {
+    width: 200px;
+    border-radius: 50px;
+}
+
+.colorWhite{
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;   
+}
+
+#paso1 {
+    color: blue;
+}
+
+#paso2 {
+    font-size: larger;
+}
+
+#paso3 {
+    font-family: cursive;
+    font-size: x-large;
+}

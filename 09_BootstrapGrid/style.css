@@ -1,0 +1,14 @@
+.my-container{
+    border: 2px black solid;
+    height: auto;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, black,white);
+}
+
+
+.my-div{
+    border: blue solid 2px;
+    width: 400px;
+    height: 200px;
+}
+

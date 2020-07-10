@@ -1,0 +1,76 @@
+.Borde{
+    border: 2px solid black;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    background-color: rgb(20, 12, 126);
+}
+
+.Izq{
+    /* border: 2px black solid; */
+    width: 34%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.BlancoA{
+    width: 85%;
+    height: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.BlancoB{
+    width: 85%;
+    height: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.Rojo{
+    width: 85%;
+    height: 85%;
+    background-color: red;
+}
+
+.Der{
+    /* border: 2px black solid; */
+    width: 66%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.Blanco_A{
+    width: 90%;
+    height: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.Blanco_B{
+    width: 90%;
+    height: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.RojoB{
+    width: 92%;
+    height: 85%;
+    background-color: red;
+}
